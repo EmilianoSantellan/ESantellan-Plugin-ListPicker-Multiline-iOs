@@ -78,3 +78,7 @@ Credits:
   [TimCinel](https://github.com/TimCinel/ActionSheetPicker) 
   [mgcrea](https://github.com/mgcrea/cordova-pickerview)
   [skywinder] (https://github.com/skywinder/ActionSheetPicker-3.0)
+  
+* Inspired by Multiline in iOS from Pablo Rian
+
+  [PabloRian] (https://github.com/pablorian/PhoneGap-Plugin-ListPicker.git)
